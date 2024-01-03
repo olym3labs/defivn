@@ -1,52 +1,9 @@
 ---
+sidebar_label: 'Đóng góp nội dung'
 sidebar_position: 1
 ---
+# Hướng dẫn cách đóng góp nội dung cho DeFi.vn trên GitHub
 
-# Giới thiệu {#gioi-thieu}
-
-Hãy cùng nhau tìm hiểu về dự án **DeFi.vn trong 5 phút**.
-
-## DeFi.vn là gì? {#defi-vn-la-gi}
-
-### Bối cảnh {#boi-canh}
-
-Hiện tại, Việt Nam đang đối mặt với thách thức từ việc thông tin không nhất quán, thiếu nguồn tư liệu dịch trực tiếp và chịu sự kiểm duyệt nghiêm ngặt. Điều này càng trở nên phức tạp khi có những cá nhân và tổ chức với ý đồ không lành mạnh, đóng góp vào sự mơ hồ trong thông tin. Hơn nữa, sự hiểu biết còn hạn chế về bản chất và giá trị của tài chính phi tập trung tại Việt Nam khiến nhiều người chỉ tập trung vào việc mua bán tài sản số mà không thực sự hiểu rõ về chúng.
-
-### Giải pháp {#giai-phap}
-
-Đáp ứng những thách thức này, DeFi.vn đóng vai trò quan trọng trong việc cung cấp thông tin đáng tin cậy và minh bạch về tài chính phi tập trung. Với nguồn thông tin chính xác và dễ hiểu, DeFi.vn giúp cải thiện kiến thức của người dùng về thị trường tài sản số, giảm thiểu rủi ro từ thông tin sai lệch. Ngoài ra, DeFi.vn còn tạo điều kiện cho cộng đồng tài chính phi tập trung ở Việt Nam phát triển một cách lành mạnh và bền vững, qua việc nâng cao nhận thức và cung cấp các công cụ tài chính minh bạch.
-
-## Về tài liệu {#ve-tai-lieu}
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Về bài viết {#ve-bai-viet}
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
-
-
-## Hướng dẫn cách đóng góp {#huong-dan-cach-dong-gop}
 Để đóng góp cho nội dung cho DeFi.vn thông qua việc mở pull request trên GitHub, bạn có thể làm theo các bước sau:
 
 1. **Tạo Tài Khoản và Đăng Nhập GitHub**: Nếu bạn chưa có tài khoản, hãy đăng ký một tài khoản tại [GitHub](https://github.com). Nếu đã có, hãy đăng nhập.

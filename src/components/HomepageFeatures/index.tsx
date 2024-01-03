@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Việt hoá tài liệu',
+    Svg: require('@site/static/img/defivn-features-1.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        DeFi.vn đã việt hoá các tài liệu về tài chính phi tập trung quốc tế để giúp người Việt Nam tiếp cận dễ dàng hơn.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Nội dung chi tiết và trung lập',
+    Svg: require('@site/static/img/defivn-features-2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        DeFi.vn cung cấp các tài liệu và bài viết về tài chính phi tập trung từ các nguồn đáng tin cậy và được kiểm chứng.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Đóng góp bởi cộng đồng',
+    Svg: require('@site/static/img/defivn-features-3.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        DeFi.vn là một dự án mã nguồn mở, mọi người có thể đóng góp bằng cách tạo pull request trên Github.
       </>
     ),
   },

@@ -4,19 +4,19 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'DeFi.vn',
-  tagline: 'Bách khoa toàn thư về DeFi - Tài chính phi tập trung',
+  tagline: 'Bách khoa toàn thư về tài chính phi tập trung',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://defi.vn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'defivn', // Usually your GitHub org/user name.
+  projectName: 'defivn', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'vi',
+    locales: ['vi'],
   },
 
   presets: [
@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/defivn/defivn/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/defivn/defivn/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -56,23 +56,23 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/defi-vn-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'DeFi.vn',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'DeFi-vn-logo',
         src: 'img/logo.svg',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'defivnSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Tài liệu',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Bài viết', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/defivn/defivn',
           label: 'GitHub',
           position: 'right',
         },
@@ -85,8 +85,12 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Tài liệu',
+              to: '/docs/gioi-thieu',
+            },
+            {
+              label: 'Bài viết',
+              to: '/blog',
             },
           ],
         },
@@ -94,34 +98,22 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+              label: 'Facebook',
+              href: 'https://www.facebook.com/groups/892179592453953',
+            }
           ],
         },
         {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/defivn/defivn',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DeFivn. Xây dựng bởi Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
