@@ -18,70 +18,11 @@ Hiện tại, Việt Nam đang đối mặt với thách thức từ việc thô
 
 ## Về tài liệu {#ve-tai-lieu}
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
+Tài liệu của DeFi.vn là nguồn cung cấp định nghĩa, khái niệm và kiến thức nền tảng sâu rộng về tài chính phi tập trung. Nó giúp người dùng hiểu rõ về công nghệ blockchain và ứng dụng của nó trong DeFi. Với ngôn ngữ dễ hiểu và thông tin luôn được cập nhật, tài liệu này trở thành nguồn thông tin đáng giá cho ai muốn tìm hiểu sâu về DeFi.
 
 ## Về bài viết {#ve-bai-viet}
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
-
+Phần bài viết của DeFi.vn là tập hợp các ý kiến, phân tích và quan điểm từ cộng đồng và các chuyên gia hàng đầu trong lĩnh vực tài chính phi tập trung. Nơi đây cung cấp cái nhìn sâu sắc và đa dạng về các xu hướng, chiến lược và vấn đề cốt lõi trong thế giới DeFi. Bằng cách này, DeFi.vn trở thành diễn đàn quan trọng, nơi mọi người có thể trao đổi kiến thức, chia sẻ kinh nghiệm và học hỏi lẫn nhau.
 
 ## Hướng dẫn cách đóng góp {#huong-dan-cach-dong-gop}
-Để đóng góp cho nội dung cho DeFi.vn thông qua việc mở pull request trên GitHub, bạn có thể làm theo các bước sau:
-
-1. **Tạo Tài Khoản và Đăng Nhập GitHub**: Nếu bạn chưa có tài khoản, hãy đăng ký một tài khoản tại [GitHub](https://github.com). Nếu đã có, hãy đăng nhập.
-
-2. **Tìm tới kho lưu trữ của DeFi.vn**: Bấm vào link này [DeFi.vn GitHub](https://github.com/defivn/defivn) để truy cập vào kho lưu trữ của DeFi.vn.
-
-3. **Fork Kho Lưu Trữ**: Tại trang của kho lưu trữ, nhấn vào nút "Fork" ở góc phải trên cùng để tạo một bản sao của kho lưu trữ này trên tài khoản của bạn.
-
-4. **Clone Kho Lưu Trữ Về Máy Local**: Sử dụng Git để clone kho lưu trữ đã fork về máy tính của bạn. Mở terminal hoặc command prompt và chạy lệnh sau:
-   ```bash
-   git clone [URL của kho lưu trữ đã fork]
-   ```
-   Thay `[URL của kho lưu trữ đã fork]` bằng đường dẫn thực tế của kho lưu trữ đã fork.
-
-5. **Tạo Một Nhánh Mới (Branch)**: Để tạo một nhánh mới, sử dụng lệnh sau trong terminal của dự án đã clone:
-   ```bash
-   git checkout -b [tên-nhánh-mới]
-   ```
-   Thay `[tên-nhánh-mới]` bằng tên bạn muốn đặt cho nhánh.
-
-6. **Thực Hiện Các Thay Đổi**: Mở tài liệu hoặc mã nguồn trong một trình soạn thảo và thực hiện các thay đổi của bạn.
-
-7. **Commit Thay Đổi**: Sau khi hoàn thành các thay đổi, hãy thêm chúng vào Git và tạo một commit. Sử dụng các lệnh sau trong terminal:
-   ```bash
-   git add .
-   git commit -m "Mô tả ngắn gọn về các thay đổi"
-   ```
-
-8. **Push Nhánh lên GitHub**: Push nhánh chứa các thay đổi của bạn lên GitHub sử dụng lệnh:
-   ```bash
-   git push origin [tên-nhánh-mới]
-   ```
-
-9. **Tạo Pull Request**: Trở lại trang GitHub của kho lưu trữ gốc mà bạn đã fork. Sẽ có một thông báo cho bạn biết rằng bạn vừa push một nhánh mới. Nhấn vào nút "Compare & pull request" và điền thông tin cần thiết để mô tả pull request của bạn.
-
-10. **Gửi và Chờ Đợi Phản Hồi**: Sau khi hoàn tất, nhấn vào nút "Create pull request" để gửi pull request đến chủ sở hữu của kho lưu trữ gốc. Chủ sở hữu hoặc cộng đồng sẽ xem xét đóng góp của bạn và có thể hợp nhất nó vào dự án, hoặc họ có thể yêu cầu bạn thực hiện một số thay đổi. 
-
-Hãy nhớ luôn kiểm tra các quy định và hướng dẫn đóng góp của dự án trước khi gửi pull request để đảm bảo rằng bạn tuân theo tất cả các yêu cầu.
+Để đóng góp cho nội dung cho DeFi.vn thông qua việc mở pull request trên GitHub, bạn có thể tham khảo hướng dẫn ở trang [**Đóng góp nội dung**](/huong-dan/dong-gop-noi-dung.md)

@@ -46,6 +46,8 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/defivn/defivn/tree/main',
+          blogSidebarTitle: 'Tất cả bài viết',
+          blogSidebarCount: 20,
         },
         theme: {
           customCss: './src/css/custom.css',
