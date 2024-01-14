@@ -2,7 +2,7 @@
 sidebar_label: 'Đóng góp nội dung'
 sidebar_position: 1
 ---
-# Hướng dẫn cách đóng góp nội dung cho DeFi.vn trên GitHub
+# Đóng góp nội dung
 
 Để đóng góp cho nội dung cho DeFi.vn thông qua việc mở pull request trên GitHub, bạn có thể làm theo các bước sau:
 

@@ -81,10 +81,10 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
-          title: 'Docs',
+          title: 'Nội dung',
           items: [
             {
               label: 'Tài liệu',
@@ -97,7 +97,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Cộng đồng',
           items: [
             {
               label: 'Facebook',
@@ -106,7 +106,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Mã nguồn',
           items: [
             {
               label: 'GitHub',

@@ -4,14 +4,13 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  // Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Việt hoá tài liệu',
-    Svg: require('@site/static/img/defivn-features-1.svg').default,
     description: (
       <>
         DeFi.vn đã việt hoá các tài liệu về tài chính phi tập trung quốc tế để giúp người Việt Nam tiếp cận dễ dàng hơn.
@@ -20,7 +19,6 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Nội dung chi tiết và trung lập',
-    Svg: require('@site/static/img/defivn-features-2.svg').default,
     description: (
       <>
         DeFi.vn cung cấp các tài liệu và bài viết về tài chính phi tập trung từ các nguồn đáng tin cậy và được kiểm chứng.
@@ -29,7 +27,6 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Đóng góp bởi cộng đồng',
-    Svg: require('@site/static/img/defivn-features-3.svg').default,
     description: (
       <>
         DeFi.vn là một dự án mã nguồn mở, mọi người có thể đóng góp bằng cách tạo pull request trên Github.
@@ -38,12 +35,12 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
+      {/* <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
-      </div>
+      </div> */}
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
