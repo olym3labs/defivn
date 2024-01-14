@@ -6,6 +6,7 @@ const config: Config = {
   title: 'DeFi.vn',
   tagline: 'Bách khoa toàn thư về tài chính phi tập trung',
   favicon: 'img/favicon.ico',
+  
 
   // Set the production url of your site here
   url: 'https://defi.vn',
@@ -57,8 +58,22 @@ const config: Config = {
   ],
 
   themeConfig: {
+    metadata: [
+      {name: 'description', content: 'Bách khoa toàn thư về tài chính phi tập trung'},
+      {name: 'og:title', content: 'DeFi.vn'},
+      {name: 'og:description', content: 'Bách khoa toàn thư về tài chính phi tập trung'},
+      {name: 'og:image', content: 'img/defivn-social-card.png'},
+      {name: 'og:url', content: 'https://defi.vn'},
+      {name: 'og:type', content: 'website'},
+      {name: 'twitter:image', content: 'img/defivn-social-card.png'},
+      {name: 'twitter:title', content: 'DeFi.vn'},
+      {name: 'twitter:description', content: 'Bách khoa toàn thư về tài chính phi tập trung'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:domain', content: 'defi.vn'},
+      {name: 'twitter:url', content: 'https://defi.vn'},
+    ],
     // Replace with your project's social card
-    image: 'img/defi-vn-social-card.jpg',
+    image: 'img/defivn-social-card.png',
     navbar: {
       title: 'DeFi.vn',
       logo: {
@@ -102,6 +117,10 @@ const config: Config = {
             {
               label: 'Facebook',
               href: 'https://www.facebook.com/groups/892179592453953',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/defivn/defivn/discussions',
             }
           ],
         },
