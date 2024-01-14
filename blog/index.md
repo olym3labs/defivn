@@ -2,7 +2,7 @@
 title: Lời Ngỏ
 description: Chào mừng bạn đến với Chuyên mục Bài viết của DeFi.vn
 slug: loi-ngo
-authors: [zxstim]
+authors: zxstim
 tags: [intro]
 date: 2099-01-01T00:00
 hide_table_of_contents: false
