@@ -30,6 +30,8 @@ const config: Config = {
     locales: ['vi'],
   },
 
+  scripts: [{src: 'https://plausible.io/js/script.js', defer: true, 'data-domain': 'defi.vn'}],
+
   presets: [
     [
       'classic',
