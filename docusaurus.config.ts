@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: 'Tài liệu',
-              to: '/docs/gioi-thieu',
+              to: '/docs/intro',
             },
             {
               label: 'Bài viết',
