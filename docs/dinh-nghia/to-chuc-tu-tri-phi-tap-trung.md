@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Tổ chức tự trị phi tập trung'
-sidebar_position: 3
+sidebar_position: 4
 ---
 # Tổ chức tự trị phi tập trung
 

@@ -1,0 +1,10 @@
+{
+  "label": "Kỹ thuật",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Kỹ thuật",
+    "description": "Tổng hợp tài liệu kỹ thuật về các công nghệ, ngôn ngữ lập trình, framework, thư viện, công cụ, quy trình, phương pháp, mô hình, kiến trúc, thiết kế, triển khai, vận hành, bảo trì, nâng cấp, tối ưu hóa, bảo mật, kiểm thử, quản lý dự án, quản lý sản phẩm, quản lý chất lượng, quản lý rủi ro, quản lý cấu hình, quản lý phiên bản, quản lý dữ liệu, quản lý nguồn lực, quản lý quy trình, quản lý tri thức, quản lý kiến thức, quản lý thông tin, quản lý hệ thống, quản lý mạng, quản lý dịch vụ, quản lý cơ sở dữ liệu",
+    "slug": "ky-thuat"
+  }
+}

@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Ứng dụng phi tập trung'
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Ứng dụng phi tập trung
 Các ứng dụng phi tập trung, thường được gọi là DApps, đại diện cho một sự thay đổi mang tính cách mạng trong thế giới kỹ thuật số, khai thác sức mạnh của công nghệ blockchain, đặc biệt là Ethereum, để xác định lại cách thức hoạt động của các ứng dụng. Không giống như các ứng dụng truyền thống, DApp hoạt động trên mạng phi tập trung, mang lại tính minh bạch, bảo mật cao hơn và khả năng chống kiểm duyệt cao hơn do tính chất phân tán của chúng. Sự đổi mới này không chỉ thách thức các mô hình kinh doanh hiện tại mà còn mở ra vô số khả năng tạo ra các nền tảng và dịch vụ kỹ thuật số mới, công bằng hơn và lấy người dùng làm trung tâm.

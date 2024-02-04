@@ -59,6 +59,13 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [ require.resolve('docusaurus-lunr-search'), {
+        languages: ['vi'] // language codes
+      }
+    ]
+  ],
+
   themeConfig: {
     metadata: [
       {name: 'description', content: 'Bách khoa toàn thư về tài chính phi tập trung'},
@@ -136,7 +143,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} DeFivn. Xây dựng bởi Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} - DeFi.vn - Xây dựng bằng Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

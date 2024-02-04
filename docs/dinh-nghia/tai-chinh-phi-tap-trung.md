@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Tài chính phi tập trung'
-sidebar_position: 1
+sidebar_position: 2
 ---
 # Tài chính phi tập trung {#tai-chinh-phi-tap-trung}
 Tài chính phi tập trung (DeFi) là một định chế tài chính mở, toàn cầu và được xây dựng cho thời đại internet – một giải pháp thay thế cho một định chế cũ kỹ, bí ẩn, bị kiểm duyệt nghẹt thở và gắn kết với nhau bằng cơ sở hạ tầng và quy trình trải dài hàng thập kỷ. Định chế mới này cho phép bạn thực sự quản trị tiền của bạn, cho phép bạn tiếp xúc với thị trường tài chính toàn cầu và những lựa chọn khác thay cho đồng nội tệ hoặc các lựa chọn ngân hàng của bạn. Các sản phẩm tài chính phi tập trung đem tới các dịch vụ tài chính cho bất kỳ ai có kết nối Internet và những dịch vụ này phần lớn do người dùng sở hữu và duy trì. Cho đến nay, số lượng tài sản số giá trị hàng nghìn tỷ đô la đã chảy qua các ứng dụng tài chính phi tập trung và đang tăng lên theo thời gian.
@@ -39,4 +39,6 @@ Ethereum được xây dựng dựa trên điều này. Giống như Bitcoin, c�
 ## Tiền có thể được lập trình {#tien-co-the-duoc-lap-trinh}
 Điều này nghe có vẻ kỳ lạ... "tại sao tôi lại muốn lập trình tiền của mình"? Tuy nhiên, đây không chỉ là một tính năng mặc định của token trên Ethereum. Bất cứ ai cũng có thể lập trình logic vào các khoản thanh toán. Vì vậy, bạn có thể kiểm soát và bảo mật Bitcoin kết hợp với các dịch vụ do các tổ chức tài chính cung cấp. Điều này cho phép bạn thực hiện những việc với tiền điện tử mà bạn không thể làm với Bitcoin như cho vay và đi vay, lên lịch thanh toán, đầu tư vào quỹ chỉ số, v.v.
 
-
+:::note
+Trích nguồn:
+[Decentralized finance (DeFi) | ethereum.org](https://ethereum.org/defi)
