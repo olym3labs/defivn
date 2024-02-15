@@ -30,7 +30,7 @@ const config: Config = {
     locales: ['vi'],
   },
 
-  scripts: [{src: 'https://plausible.io/js/script.js', defer: true, 'data-domain': 'defi.vn'}],
+  scripts: [{src: 'https://analytics.pyhash.com/js/script.js', defer: true, 'data-domain': 'defi.vn'}],
 
   presets: [
     [
