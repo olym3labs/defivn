@@ -63,10 +63,17 @@ DeFi và Yield Farming vẫn đang trong giai đoạn phát triển và chưa đ
 
 **1. Những nền tảng Yield Farming phổ biến:**
 
-*a. NEOPIN:* [NPT](https://docs.neopin.io/earn-with-neopin/derivatives) là một nền tảng DeFi tập trung vào cung cấp các sản phẩm yield farming đa dạng và tiên tiến. Một trong những sản phẩm nổi bật của NEOPIN là giao thức yield farming dựa trên tài sản thực (RWA) có tên BDLP (Bonded Liquidity Pool). Giao thức này cho phép người dùng đầu tư vào các tài sản thực tế như bất động sản hoặc cổ phiếu để tạo ra lợi nhuận cao hơn và ổn định hơn so với các giao thức yield farming truyền thống.
+*a. NEOPIN:* [NPT](https://docs.neopin.io/earn-with-neopin/derivatives) là một nền tảng DeFi tập trung vào cung cấp các sản phẩm yield farming đa dạng và tiên tiến. Một trong những sản phẩm nổi bật của NEOPIN là giao thức yield farming dựa trên tài sản thực (RWA) có tên BDLP (Bonded Liquidity Pool). 
 
-*b. Uniswap:* [UNI](https://blog.uniswap.org/fighting-for-defi) một trong những nền tảng DeFi nổi tiếng nhất, cung cấp các cơ hội yield farming thông qua việc cung cấp thanh khoản cho các pool giao dịch của mình. Trên Uniswap, người dùng có thể thêm thanh khoản vào các cặp token (ví dụ như ETH/USDC) bằng cách gửi một lượng tương đương của cả hai loại tài sản vào pool. Khi cung cấp thanh khoản, người dùng sẽ nhận lại token LP đại diện cho phần của họ trong pool và được hưởng phần phí giao dịch từ các hoạt động trao đổi trong pool đó.
+Giao thức này cho phép người dùng đầu tư vào các tài sản thực tế như bất động sản hoặc cổ phiếu để tạo ra lợi nhuận cao hơn và ổn định hơn so với các giao thức yield farming truyền thống.
 
+*b. SushiSwap:* [SUSHI](https://www.sushi.com/academy/what-is-yield-farming) là một nền tảng tài chính phi tập trung (DeFi) cho phép người dùng thực hiện yield farming bằng cách cung cấp thanh khoản cho các bể thanh khoản trên nền tảng này. 
+
+Để bắt đầu Yield Farming trên SushiSwap, bạn có thể truy cập trang web của SushiSwap, kết nối ví của bạn, và chọn cặp token mà bạn muốn cung cấp thanh khoản. Sau khi xác nhận giao dịch, bạn có thể đặt token SLP nhận được vào các farm phù hợp và bắt đầu thu thập phần thưởng SUSHI.
+
+*c. Curve Finance:* [CRV](https://resources.curve.fi/lp/calculating-yield/) là một giao thức trao đổi phi tập trung (DEX) chuyên về giao dịch stablecoin và các tài sản có giá trị tương đương, sử dụng các giao thức tạo lập thị trường tự động. Đặc điểm nổi bật của Curve là phí giao dịch thấp và độ trượt giá thấp, nhờ vào việc cho phép nhiều tài sản trong một pool và không cần token trung gian cho các giao dịch stablecoin​.​ 
+
+Với trọng tâm vào giao dịch stablecoin và cơ hội yield farming cao, Curve Finance đã thu hút được sự quan tâm lớn từ cộng đồng DeFi, đặc biệt là những người muốn tối ưu hóa lợi nhuận mà không phải chịu nhiều rủi ro​.
 
 **2. Những ví dụ về rủi ro trong Yield Farming:**
 
