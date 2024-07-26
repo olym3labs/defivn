@@ -1,10 +1,10 @@
 ---
-title: Lời Ngỏ
-description: Chào mừng bạn đến với Chuyên mục Bài viết của DeFi.vn
-slug: loi-ngo
-authors: zxstim
-tags: [intro]
-date: 2099-01-01T00:00
+title: Yield Farming: Lợi ích và rủi ro trong thực tế
+description: Giới thiệu khái quát về Yield Farming và những nền tảng phổ biến.
+slug: yield-farming
+authors: olym3labs
+tags: [yield-farming]
+date: 2024-07-27T07:07
 hide_table_of_contents: false
 ---
 
@@ -12,4 +12,4 @@ hide_table_of_contents: false
 
 <!-- truncate -->
 
-Đây không chỉ là một không gian chia sẻ kiến thức, mà còn là nơi để bạn khám phá, học hỏi và trải nghiệm những phân tích chuyên sâu từ các chuyên gia và những người am hiểu về DeFi.
+**Yield Farming: Lợi ích và rủi ro trong thực tế.**
