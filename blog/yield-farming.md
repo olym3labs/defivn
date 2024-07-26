@@ -79,11 +79,11 @@ Với trọng tâm vào giao dịch stablecoin và cơ hội yield farming cao, 
 
 *a. Ronin Network (2022):*
 
-Ronin Network, một sidechain của Axie Infinity, đã bị hack mất 620 triệu USD, bao gồm 173,600 ETH và 25.5 triệu USDC. Đây là một trong những vụ hack lớn nhất trong lĩnh vực DeFi .
+Ronin Network, một sidechain của Axie Infinity, đã bị hack mất 620 triệu USD, bao gồm 173,600 ETH và 25.5 triệu USDC. Đây là một trong những vụ hack lớn nhất trong lĩnh vực DeFi.
 
 *b. Poly Network (2021):*
 
-Poly Network, một giao thức DeFi, đã bị hack mất khoảng 610 triệu USD vào tháng 8 năm 2021. Tuy nhiên, sau đó hacker đã trả lại phần lớn số tiền bị đánh cắp .
+Poly Network, một giao thức DeFi, đã bị hack mất khoảng 610 triệu USD vào tháng 8 năm 2021. Tuy nhiên, sau đó hacker đã trả lại phần lớn số tiền bị đánh cắp.
 
 *c. Mt. Gox (2014):*
 
