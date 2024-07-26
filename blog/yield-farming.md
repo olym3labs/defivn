@@ -65,6 +65,9 @@ DeFi và Yield Farming vẫn đang trong giai đoạn phát triển và chưa đ
 
 *a. NEOPIN:* [NPT](https://docs.neopin.io/earn-with-neopin/derivatives) là một nền tảng DeFi tập trung vào cung cấp các sản phẩm yield farming đa dạng và tiên tiến. Một trong những sản phẩm nổi bật của NEOPIN là giao thức yield farming dựa trên tài sản thực (RWA) có tên BDLP (Bonded Liquidity Pool). Giao thức này cho phép người dùng đầu tư vào các tài sản thực tế như bất động sản hoặc cổ phiếu để tạo ra lợi nhuận cao hơn và ổn định hơn so với các giao thức yield farming truyền thống.
 
+*b. Uniswap:* [UNI](https://blog.uniswap.org/fighting-for-defi) một trong những nền tảng DeFi nổi tiếng nhất, cung cấp các cơ hội yield farming thông qua việc cung cấp thanh khoản cho các pool giao dịch của mình. Trên Uniswap, người dùng có thể thêm thanh khoản vào các cặp token (ví dụ như ETH/USDC) bằng cách gửi một lượng tương đương của cả hai loại tài sản vào pool. Khi cung cấp thanh khoản, người dùng sẽ nhận lại token LP đại diện cho phần của họ trong pool và được hưởng phần phí giao dịch từ các hoạt động trao đổi trong pool đó.
+
+
 **2. Những ví dụ về rủi ro trong Yield Farming:**
 
 **Kết luận:**
