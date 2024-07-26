@@ -63,7 +63,7 @@ DeFi và Yield Farming vẫn đang trong giai đoạn phát triển và chưa đ
 
 **1. Những nền tảng Yield Farming phổ biến:**
 
-*a. NEOPIN [NPT](https://docs.neopin.io/earn-with-neopin/derivatives)là một nền tảng DeFi tập trung vào cung cấp các sản phẩm yield farming đa dạng và tiên tiến. Một trong những sản phẩm nổi bật của NEOPIN là giao thức yield farming dựa trên tài sản thực (RWA) có tên BDLP (Bonded Liquidity Pool). Giao thức này cho phép người dùng đầu tư vào các tài sản thực tế như bất động sản hoặc cổ phiếu để tạo ra lợi nhuận cao hơn và ổn định hơn so với các giao thức yield farming truyền thống.
+*a. NEOPIN:* {[NPT]}(https://docs.neopin.io/earn-with-neopin/derivatives) là một nền tảng DeFi tập trung vào cung cấp các sản phẩm yield farming đa dạng và tiên tiến. Một trong những sản phẩm nổi bật của NEOPIN là giao thức yield farming dựa trên tài sản thực (RWA) có tên BDLP (Bonded Liquidity Pool). Giao thức này cho phép người dùng đầu tư vào các tài sản thực tế như bất động sản hoặc cổ phiếu để tạo ra lợi nhuận cao hơn và ổn định hơn so với các giao thức yield farming truyền thống.
 
 **2. Những ví dụ về rủi ro trong Yield Farming:**
 
