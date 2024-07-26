@@ -77,6 +77,19 @@ Với trọng tâm vào giao dịch stablecoin và cơ hội yield farming cao, 
 
 **2. Những ví dụ về rủi ro trong Yield Farming:**
 
+*a. Ronin Network (2022):*
+
+Ronin Network, một sidechain của Axie Infinity, đã bị hack mất 620 triệu USD, bao gồm 173,600 ETH và 25.5 triệu USDC. Đây là một trong những vụ hack lớn nhất trong lĩnh vực DeFi .
+
+*b. Poly Network (2021):*
+
+Poly Network, một giao thức DeFi, đã bị hack mất khoảng 610 triệu USD vào tháng 8 năm 2021. Tuy nhiên, sau đó hacker đã trả lại phần lớn số tiền bị đánh cắp .
+
+*c. Mt. Gox (2014):*
+
+Mt. Gox, một sàn giao dịch Bitcoin, đã bị hack và mất khoảng 850,000 BTC, trị giá khoảng 450 triệu USD vào thời điểm đó. Đây là một trong những vụ hack lớn nhất trong lịch sử crypto và đã dẫn đến sự phá sản của Mt. Gox.
+
+
 **Kết luận:**
 
 Yield Farming mang lại nhiều cơ hội kiếm lợi nhuận hấp dẫn, nhưng cũng đi kèm với không ít rủi ro. Người dùng cần phải cẩn trọng, nghiên cứu kỹ lưỡng trước khi tham gia vào các giao thức DeFi. Đồng thời, việc hiểu rõ các rủi ro và lợi ích sẽ giúp người dùng đưa ra các quyết định thông minh và tối ưu hóa lợi nhuận từ Yield Farming. Trong một thị trường tiền điện tử đầy biến động, sự chuẩn bị và kiến thức là chìa khóa để thành công.
