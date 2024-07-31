@@ -2,7 +2,7 @@
 sidebar_label: 'Hợp đồng thông minh'
 sidebar_position: 4
 ---
-# Hợp đồng thông minh
+# Smart contract - Hợp đồng thông minh
 Hợp đồng thông minh là các chương trình tự động được thiết kế để thực thi hoặc kiểm soát các điều khoản kỹ thuật số mà không cần đến sự can thiệp của bên thứ ba. Chúng hoạt động trên nền tảng blockchain, đảm bảo tính minh bạch và không thể thay đổi sau khi đã được triển khai. Hợp đồng thông minh mở ra những khả năng mới trong các lĩnh vực như tài chính, bất động sản, và pháp lý, bằng cách tự động hóa và đơn giản hóa các giao dịch phức tạp.
 
 

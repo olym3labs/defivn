@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Giới thiệu về Ethereum'
-sidebar_position: 5
+sidebar_position: 7
 ---
 # Giới thiệu về Ethereum
 ## Ethereum là gì?
